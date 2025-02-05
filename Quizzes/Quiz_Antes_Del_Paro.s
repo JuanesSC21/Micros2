@@ -1,5 +1,5 @@
 ;-----------------------------------------------------------
-;Hacer un programa en ensamblador que recibe la dirección 'd' de memoria donde comienza un vector en R3.
+;Hacer un programa en ensamblador que recibe la dirección 'd' de memoria donde comienza un vector en R^3.
 ;
 ;     |<d>  |
 ; V=  |<d+4>|
