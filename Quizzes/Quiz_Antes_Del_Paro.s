@@ -22,5 +22,5 @@
 0x14    SMUL R3,R3,R3 ; Z^2
 0x18    ADD R3,R3,R4  ; Z^2+X^2
 0x1C    ADD R3,R3,R5  ; Z^2+X^2+Y^2
-0x20    LD [R2+0],R3  ; 
+0x20    ST [R2+0],R3  ; Utilizamos la direccion e para guardar el resultado
 
