@@ -2,8 +2,6 @@ import numpy as np
 
 def calculate_robot_positions(v_right, v_left, d, dt, total_time):
     """
-    Calcula las posiciones del robot dado las velocidades de las ruedas.
-    
     Parámetros:
     v_right: lista de velocidades de la rueda derecha
     v_left: lista de velocidades de la rueda izquierda
